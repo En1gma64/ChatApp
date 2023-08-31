@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatRoom\\ChatRoomApp\\ChatRoomApp\\ChatRoomApp.csproj": {}
+    "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatApp\\ChatRoomApp\\ChatRoomApp\\ChatRoomApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatRoom\\ChatRoomApp\\ChatRoomApp\\ChatRoomApp.csproj": {
+    "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatApp\\ChatRoomApp\\ChatRoomApp\\ChatRoomApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatRoom\\ChatRoomApp\\ChatRoomApp\\ChatRoomApp.csproj",
+        "projectUniqueName": "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatApp\\ChatRoomApp\\ChatRoomApp\\ChatRoomApp.csproj",
         "projectName": "ChatRoomApp",
-        "projectPath": "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatRoom\\ChatRoomApp\\ChatRoomApp\\ChatRoomApp.csproj",
+        "projectPath": "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatApp\\ChatRoomApp\\ChatRoomApp\\ChatRoomApp.csproj",
         "packagesPath": "C:\\Users\\Nadvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatRoom\\ChatRoomApp\\ChatRoomApp\\obj\\",
+        "outputPath": "C:\\Users\\Nadvi\\Documents\\Capstone\\ChatApp\\ChatRoomApp\\ChatRoomApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
