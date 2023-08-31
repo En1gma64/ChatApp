@@ -14,4 +14,4 @@ cd into frontend/chatroom folder </br>
 Run reactclient frontend on port 3000 using npm start
 
 ## GitHub Link
-https://github.com/En1gma64/eSuper-Transaction-Manager
+https://github.com/En1gma64/ChatApp
