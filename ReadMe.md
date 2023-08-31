@@ -10,7 +10,7 @@ Open ChatRoomApp.sln using Visual Studio</br>
 Run asp.net backend on visual studio
 
 ### Frontend
-cd into frontend/chatroom folder </br>
+cd into frontend folder </br>
 Run reactclient frontend on port 3000 using npm start
 
 ## GitHub Link
